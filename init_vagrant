@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 mkdir_vagrant() {
 	local DIR=$1/vagrant_debian
